@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 width:10px; backgroud-color:blue> 
-  Me chamo Roberto Carlos e sou um programador Front End, pretendo me especializar e me tornar um desenvolvedor Full Stack</h1>
+  Eu me chamo Roberto Carlos e sou um programador Front End, pretendo me especializar e me tornar um desenvolvedor Full Stack</h1>
   <br>
    <a color:blue> My Status <a/>
    <br>
