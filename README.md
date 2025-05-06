@@ -1,5 +1,14 @@
 ## Hi there 👋
-
+<h1 width:10px; backgroud-color:blue> 
+  Me chamo Roberto Carlos e sou um programador Front End, pretendo me especializar e me tornar um desenvolvedor Full Stack</h1>
+  <br>
+   <a color:blue> My Status <a/>
+   <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Carlosgit&theme=dark&show_icons=true">
+  
+ 
+ 
+    
 <!--
 **Roberto-Carlosgit/Roberto-Carlosgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
